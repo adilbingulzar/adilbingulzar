@@ -1,7 +1,8 @@
 ### Hi there, I'm Adil Gulzar - aka [mangoCoders][www.mangocoders.com] 👋
 
 [![Website](https://img.shields.io/website?label=mangocoders.com&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://mangocoders.com)
-[![Website](https://img.shields.io/website?label=upwork&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://upwork.com/adilbingulzar)
+[![Website](https://img.shields.io/website?label=upwork&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://www.upwork.com/freelancers/adilbingulzar)
+[![Website](https://img.shields.io/website?label=Freelancer&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://www.freelancer.com/u/topithub)
 
 ## I'm a Husband, Father, Developer, and Mentor!!
 
