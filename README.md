@@ -48,12 +48,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&theme=dark&show_icons=true&count_private=true)
 
 </details>
-<details>
-  <summary>:zap: GitLab Stats</summary>
 
-  [![Website](https://img.shields.io/website?label=gitlab&style=for-the-badge&url=https://gitlab.com/mangocoders)](https://gitlab.com/mangocoders)
-
-</details>
 [website]: https://mangocoders.com
 
 [linkedin]: https://linkedin.com/in/adilbingulzar
