@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=upwork&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://www.upwork.com/freelancers/adilbingulzar)
 [![Website](https://img.shields.io/website?label=Freelancer&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://www.freelancer.com/u/topithub)
 
-## I'm a Husband, Father, Developer, and Mentor!!
+## I'm a Developer, and Mentor!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
