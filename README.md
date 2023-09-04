@@ -6,7 +6,7 @@
 ## I'm a Developer, and Mentor!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: No Fun Facts 🤣
 
 <br />
