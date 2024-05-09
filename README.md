@@ -24,7 +24,7 @@
   </a>
    </a>
    <a href="https://www.fiverr.com/users/adilbingulzar/seller_dashboard">
-    <img src="https://img.shields.io/badge/Fiver-dark green?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+    <img src="https://img.shields.io/badge/Fiver-dark green?style=for-the-badge&logo=fiver&logoColor=white" alt="Fiverr Badge"/>
   </a>
 </div>
 
