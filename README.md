@@ -1,52 +1,34 @@
-### Hi there, I'm Adil Gulzar 👋
+<h1 align="center">Hi 👋, I'm Adil Gulzar </h1>
 
-[![Website](https://img.shields.io/website?label=upwork&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://www.upwork.com/freelancers/adilbingulzar)
-[![Website](https://img.shields.io/website?label=Freelancer&style=for-the-badge&url=https%3A%2F%2Fmangocoders.com)](https://www.freelancer.com/u/DeveloperStation)
-
-## I'm a Developer, and Mentor!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: No Fun Facts 🤣
-
-<br />
+- 🌱 I'm a Senior Full Stack Developer, and Mentor!!
+- 🔭 I'm currently working on different JavaScript frameworks like React, Vue.js along with different backend languages including PHP, Python and Node.js. I have used different cloud platforms and have expertise in AWS, Azure, Digital Ocean and others. I have worked with different AI APIs like OpenAI APIs, Gemini API etc on different AI projects. I've used fine-tuning techniques to make models work better for certain tasks and applications.
+  
+- 📫 How to reach me: adilbingulzar@gmail.com
+- 😄 My website: https://builtwith.com/mangocoders.com
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/adilbingulzar">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+ 
+  </a>
+   <a href="https://www.linkedin.com/in/adilbingulzar/">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.upwork.com/freelancers/adilbingulzar">
+    <img src="https://img.shields.io/badge/Upwork-dark green?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
+  </a>
+   <a href="https://www.freelancer.com/u/DeveloperStation?frm=DeveloperStation&sb=t">
+    <img src="https://img.shields.io/badge/Freelance-blue?style=for-the-badge&logo=freelance&logoColor=white" alt="Freelance Badge"/>
+  </a>
+   </a>
+   <a href="https://www.fiverr.com/users/adilbingulzar/seller_dashboard">
+    <img src="https://img.shields.io/badge/Fiver-dark green?style=for-the-badge&logo=fiver&logoColor=white" alt="Fiver Badge"/>
+  </a>
+</div>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" />][website]
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilbingulzar&theme=dark&show_icons=true&count_private=true)
-
-</details>
-
-[website]: https://mangocoders.com
-
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,react,nextjs,redux,vue,nuxtjs,&perline=10)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,mysql,mongodb,nginx,aws,azure,linux&perline=10)
