@@ -63,7 +63,3 @@ Building smart solutions, automating workflows, and mentoring teams to success.
 ### 🧠 Quote I Live By
 
 > “Don’t just code for clients. Build solutions that make lives easier.”
-
----
-
-Would you like this in `.md` file format or want to preview it live on your profile first?
