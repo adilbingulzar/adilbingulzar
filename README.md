@@ -1,34 +1,34 @@
-<h1 align="center">Hi 👋, I'm Adil Gulzar </h1>
+<h1 align="center">Hi 👋, I'm Adil Gulzar</h1>
 
-- 🌱 I'm a Solution Architect, and Mentor!!
-- 🔭 I'm currently working on different JavaScript frameworks like React, Vue.js along with different backend languages including PHP, Python and Node.js. I have used different cloud platforms and have expertise in AWS, Azure, Digital Ocean and others. I have worked with different AI APIs like OpenAI APIs, Gemini API etc on different AI projects. I've used fine-tuning techniques to make models work better for certain tasks and applications.
-  
-- 📫 How to reach me: adilbingulzar@gmail.com
-- 😄 My website: https://mangocoders.com
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
+<p align="center">
+A passionate Solution Architect and Mentor with 10+ years of experience in full-stack development, cloud infrastructure, and AI integrations. I specialize in JavaScript frameworks like React and Vue, and back-end development using PHP, Python, and Node.js. I've worked across AWS, Azure, and DigitalOcean, and integrated AI tools like OpenAI and Gemini into real-world products.
+</p>
+
+### 🌐 Connect with me
 <div id="badges">
-  <a href="https://github.com/adilbingulzar">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
- 
+  <a href="https://www.linkedin.com/in/adilbingulzar/">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.linkedin.com/in/adilbingulzar/">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.upwork.com/freelancers/adilbingulzar">
+    <img src="https://img.shields.io/badge/Upwork-darkgreen?style=for-the-badge&logo=Upwork&logoColor=white" />
   </a>
-   <a href="https://www.upwork.com/freelancers/adilbingulzar">
-    <img src="https://img.shields.io/badge/Upwork-dark green?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
+  <a href="https://www.freelancer.com/u/DeveloperStation">
+    <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" />
   </a>
-   <a href="https://www.freelancer.com/u/DeveloperStation?frm=DeveloperStation&sb=t">
-    <img src="https://img.shields.io/badge/Freelance-blue?style=for-the-badge&logo=freelance&logoColor=white" alt="Freelance Badge"/>
-  </a>
-   </a>
-   <a href="https://www.fiverr.com/users/adilbingulzar/seller_dashboard">
-    <img src="https://img.shields.io/badge/Fiver-dark green?style=for-the-badge&logo=fiver&logoColor=white" alt="Fiverr Badge"/>
+  <a href="https://www.fiverr.com/users/adilbingulzar/seller_dashboard">
+    <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
 </div>
 
-### Languages and Tools:
+### 💼 Languages and Tools
+**Front-End:**  
+![Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,redux,vue,nuxtjs)
 
-![My Skills](https://skillicons.dev/icons?i=figma,js,html,css,tailwind,react,nextjs,redux,vue,nuxtjs,&perline=10)
-![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,mysql,mongodb,nginx,aws,azure,linux&perline=10)
+**Back-End & DevOps:**  
+![Skills](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,python,mysql,mongodb,nginx,aws,azure,linux)
+
+### 🤝 Let’s Connect!
+📧 adilbingulzar@gmail.com  
+🌐 [mangocoders.com](https://mangocoders.com)
+
+---
